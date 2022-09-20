@@ -206,7 +206,7 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 *Xiao Liu, Haoyun Hong, Xinghao Wang, Zeyi Chen, Evgeny Kharlamov, Yuxiao Dong, Jie Tang.* (WWW 2022). \[[paper](https://arxiv.org/abs/2203.01044)\]\[[code](https://github.com/THUDM/SelfKG)\]
 
 1. **RePS**: **"RePS: Relation, Position and Structure aware Entity Alignment".**
-*Anil Surisetty, Deepak Chaurasiya, Nitish Kumar, Alok Singh, Gaurav Dhama, Aakarash Malhotra, Ankur Arora, Vikrant Dey.* (WWW 2022). \[[paper](https://www2022.thewebconf.org/PaperFiles/159.pdf)\]\[[code](https://github.com/Deepak-Work/RePS)\]
+*Anil Surisetty, Deepak Chaurasiya, Nitish Kumar, Alok Singh, Gaurav Dhama, Aakarash Malhotra, Ankur Arora, Vikrant Dey.* (WWW 2022). \[[paper](https://dl.acm.org/doi/abs/10.1145/3487553.3524720)\]\[[code](https://github.com/Deepak-Work/RePS)\]
 
 1. **TREA**: **"Time-aware Entity Alignment using Temporal Relational Attention".**
 *Chengjin Xu, Fenglong Su, Bo Xiong, Jens Lehmann.* (WWW 2022). \[[paper](https://dl.acm.org/doi/10.1145/3485447.3511922)\]\[[code]()\]
